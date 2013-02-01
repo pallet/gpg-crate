@@ -2,7 +2,7 @@
 
 This a crate to install and run gpg via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/gpg-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
